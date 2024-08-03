@@ -2,7 +2,7 @@
 My name is Nairel Prandini.  
 Just another chronically online person.
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/NairelPrandini/NairelPrandini/blob/main/girls-last-tour-glt.gif))
+![](https://github.com/NairelPrandini/NairelPrandini/blob/main/girls-last-tour-glt.gif)
 
 ## Programming Skills
 
