@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # About Me
 My name is Nairel Prandini.  
 Just another chronically online person.
