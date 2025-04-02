@@ -1,16 +1,15 @@
 # About Me
-Just another chronically online person.
+chronically online person.
 
 ![](https://github.com/NairelPrandini/NairelPrandini/blob/main/girls-last-tour-glt.gif)
 
 ## Programming Skills
 
-I like programming stuff I like and got used to:
 - C++
 - Rust
 - C#
 - Python
-- JavaScript (forced to learn it during my internship)
+- JavaScript
 
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
