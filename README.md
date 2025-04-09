@@ -7,7 +7,7 @@ chronically online
 - Rust
 - C#
 - Python
-- JavaScript
+- Js/Ts
 
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
