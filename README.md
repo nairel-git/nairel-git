@@ -2,7 +2,7 @@
 chronically online
 
 ## Programming Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
 
 - C++ 
 - Rust
