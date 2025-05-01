@@ -2,14 +2,14 @@
 chronically online
 
 ## Programming Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight)
 
-- C++
+- C++ 
 - Rust
 - C#
 - Python
 - Js/Ts
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
 
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
