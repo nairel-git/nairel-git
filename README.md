@@ -9,6 +9,8 @@ chronically online
 - Python
 - Js/Ts
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
 
