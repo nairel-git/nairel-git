@@ -8,10 +8,10 @@ chronically online developer
   <img align="center" height=135 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" height=135 src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Programming Skills
