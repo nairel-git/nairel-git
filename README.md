@@ -4,10 +4,10 @@ chronically online developer
 ## Cool Looking Info
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="198" src="https://github-readme-stats.vercel.app/api?username=nairelprandini&theme=tokyonight&layout=compact&rank_icon=github" />
+  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=nairelprandini&theme=tokyonight&layout=compact&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
+  <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
 </a>
 
 
