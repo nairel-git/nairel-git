@@ -19,8 +19,8 @@ chronically online developer
 </a>
 
 
-## Education
-I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
+## Education 
+I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina)  *(2022-Today)*  
 
 ## Work Experience
 **SEAD IT Department** - *Backend Developer Intern*  *(2023-2025)*  
