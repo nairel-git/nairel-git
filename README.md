@@ -1,20 +1,22 @@
 # About Me
-chronically online
+chronically online developer
 
-## Programming Skills
+## Cool Info
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact)
 
-- C++ 
-- Rust
-- C#
-- Python
-- Js/Ts
-
+### Programming Skills
+- 🟦 C/C++ 
+- 🦀 Rust
+- ⚡ C#
+- 🐍 Python
+- 📘 TypeScript/JavaScript
 
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
 
 ## Work Experience
-2023-2025 Worked as an intern at SEAD IT Departament coding the backend of their internal tools.
+**SEAD IT Department** - *Backend Developer Intern*  
+*(2023-2025)*  
+- Developed backend systems for internal tools using NodeJS and Postgres SQL
 
 ![](https://github.com/NairelPrandini/NairelPrandini/blob/main/girls-last-tour-glt.gif)
