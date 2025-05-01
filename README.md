@@ -8,6 +8,7 @@ chronically online developer
 - 🐍 Python
 - 📘 TypeScript/JavaScript
 
+
 ### Cool Looking Info
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
