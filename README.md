@@ -5,10 +5,10 @@ chronically online developer
 
 
 <a>
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
+  <img align="center" height=135 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
 </a>
 <a>
-  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 
