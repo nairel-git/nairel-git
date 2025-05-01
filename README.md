@@ -7,7 +7,7 @@ chronically online developer
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nairelprandini&theme=tokyonight&layout=compact&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
 </a>
 
 
