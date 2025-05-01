@@ -1,7 +1,14 @@
 # About Me
 chronically online developer
 
-## Cool Looking Info
+### Programming Skills
+- 🟦 C/C++ 
+- 🦀 Rust
+- ⚡ C#
+- 🐍 Python
+- 📘 TypeScript/JavaScript
+
+### Cool Looking Info
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=nairelprandini&theme=tokyonight&layout=compact&rank_icon=github" />
@@ -10,15 +17,6 @@ chronically online developer
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairelprandini&hide=javascript,css,scss,html&theme=tokyonight&layout=compact" />
 </a>
 
-
-
-
-### Programming Skills
-- 🟦 C/C++ 
-- 🦀 Rust
-- ⚡ C#
-- 🐍 Python
-- 📘 TypeScript/JavaScript
 
 ## Education
 I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina).
