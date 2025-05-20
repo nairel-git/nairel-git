@@ -1,5 +1,6 @@
 # About Me
 chronically online developer
+i love databases and backend programing and think i can do a good job working with them so hit me up.
 
 ### Programming Skills
 - 🟦 C/C++ 
