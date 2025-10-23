@@ -1,14 +1,6 @@
 # About Me
 Chronically online developer.
-I love backend programing and think i can do a good job.
-
-### Programming Skills
-- 🟦 C/C++ 
-- 🦀 Rust
-- ⚡ C#
-- 🐍 Python
-- 📘 TypeScript/JavaScript
-
+I love programing.
 
 ### Cool Looking Info
 
@@ -35,7 +27,6 @@ I study Electronic Engineering at UFSC (Universidade Federal de Santa Catarina) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?plastic&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?Plastic&logo=docker&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?Plastic&logo=typescript&logoColor=white)
-
 
 
 ![](https://github.com/NairelPrandini/NairelPrandini/blob/main/girls-last-tour-glt.gif)
